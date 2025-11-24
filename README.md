@@ -1,6 +1,6 @@
 Création de la page d'accueil d'une agence de voyage avec HTML & CSS
 
-La mission principale est d'intégrer l'interface responsive de le site de Booki. 
+La mission principale est d'intégrer l'interface responsive du site de Booki. 
 
 J'ai à disposition les maquettes Figma pour mobile, tablette et desktop, ainsi que les images et une note de synthèse sur les spécificités du projet.
 
